@@ -1,18 +1,29 @@
-## Getting Started
+# Task Management Console Application
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+The Task Management Console Application is a robust tool designed to streamline task management processes for individuals or teams. Built using Java, JDBC, and an Oracle database, this application provides essential functionalities such as adding, editing, deleting, and retrieving tasks based on various parameters.
 
-## Folder Structure
+## Key Features
 
-The workspace contains two folders by default, where:
+1. **Add Task:** Easily add new tasks to the system, including title, description, priority, and status.
+2. **Edit Task:** Update existing tasks with new information, including title, description, priority, and status.
+3. **Delete Task:** Remove unwanted tasks from the system using the task ID.
+4. **Get Task by ID:** Retrieve a specific task by providing its unique identifier.
+5. **Get All Tasks:** View all tasks stored in the database.
+6. **Get Tasks by Priority:** Filter tasks based on their priority levels.
+7. **Get Tasks by Status:** Retrieve tasks based on their status.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Technologies Used
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- **Java:** Core programming language for application development.
+- **JDBC (Java Database Connectivity):** Facilitates interaction between Java applications and relational databases.
+- **Oracle Database:** Reliable database management system for storing and managing task-related data.
+- **Console Interface:** Command-line interface for user interaction.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Benefits
 
-## Dependency Management
+- **Efficiency:** Streamlines task management processes for efficient workflow.
+- **Flexibility:** Supports various operations and retrieval options for flexible task management.
+- **Data Integrity:** Ensures accuracy and consistency of task records.
+- **User-Friendly:** Features an intuitive interface for easy navigation and utilization.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+The Task Management Console Application is ideal for individuals, teams, or organizations seeking an efficient solution for managing tasks effectively. Whether for personal productivity or team collaboration, this application empowers users to stay organized, focused, and productive in their daily tasks and projects.
