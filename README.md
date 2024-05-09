@@ -20,3 +20,7 @@ The Task Management Console Application is a robust tool designed to streamline 
 - **Console Interface:** Command-line interface for user interaction.
 
 The Task Management Console Application is ideal for individuals, teams, or organizations seeking an efficient solution for managing tasks effectively. Whether for personal productivity or team collaboration, this application empowers users to stay organized, focused, and productive in their daily tasks and projects.
+
+## License
+
+Feel free to use this project as you wish. No restrictions apply.
