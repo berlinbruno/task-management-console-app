@@ -19,11 +19,4 @@ The Task Management Console Application is a robust tool designed to streamline 
 - **Oracle Database:** Reliable database management system for storing and managing task-related data.
 - **Console Interface:** Command-line interface for user interaction.
 
-## Benefits
-
-- **Efficiency:** Streamlines task management processes for efficient workflow.
-- **Flexibility:** Supports various operations and retrieval options for flexible task management.
-- **Data Integrity:** Ensures accuracy and consistency of task records.
-- **User-Friendly:** Features an intuitive interface for easy navigation and utilization.
-
 The Task Management Console Application is ideal for individuals, teams, or organizations seeking an efficient solution for managing tasks effectively. Whether for personal productivity or team collaboration, this application empowers users to stay organized, focused, and productive in their daily tasks and projects.
